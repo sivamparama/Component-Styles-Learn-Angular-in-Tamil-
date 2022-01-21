@@ -1,0 +1,13 @@
+p {
+  font-family: Lato;
+}
+
+.test{
+  background-color: aqua;
+}
+:host{
+  color:rgb(4, 4, 156);
+}
+:host-context(.selected){
+  color: black;
+}
